@@ -11,3 +11,5 @@ video too large
 cannot upload
 use the videos loacally
 
+also, yolov3.weight and yolov3.cfg need to be downloaded on the website
+too large cannot upload now
