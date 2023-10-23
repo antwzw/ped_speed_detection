@@ -1,1 +1,1 @@
-# per_speed_detection
+# ped_speed_detection
